@@ -3,11 +3,11 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class App {
-    private static final String HOST = "pg-prog2cerp-prog2cerp.c.aivencloud.com";
-	private static final String PUERTO = "27995";
-	private static final String BASE_DATOS = "foro";
-	private static final String USUARIO = "avnadmin";
-	private static final String PASSWORD = "AVNS_kQ-8sO0FbP5AQEWTTl4";
+    private static final String HOST = "...";
+	private static final String PUERTO = "...";
+	private static final String BASE_DATOS = "...";
+	private static final String USUARIO = "...";
+	private static final String PASSWORD = "...";
 
 	private static final String URL = "jdbc:postgresql://"+HOST+":"+PUERTO+"/"+BASE_DATOS+"?sslmode=require";
 	
