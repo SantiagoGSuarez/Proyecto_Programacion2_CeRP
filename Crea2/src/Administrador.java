@@ -6,9 +6,11 @@ public class Administrador extends Usuario {
 
     public registrarAlumno(Estudiante estudiante) {
         // logica de registro de alumno
+        // Hello world
     }
-
+//ses
     public registrarDocente(Docente docente) {
         // logica de registro de docente
+        
     }
 }
